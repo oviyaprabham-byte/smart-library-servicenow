@@ -17,3 +17,8 @@ This project is developed using ServiceNow platform to manage library requests e
 
 ## Outcome
 The system allows students to request books and librarians to manage approvals efficiently.
+
+## Screenshots
+
+![Roles](image1.png)
+![Table](image2.png)
